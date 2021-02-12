@@ -1,3 +1,10 @@
+# Power
+
+Un message a été encodé lettre à lettre dans une matrice `m`
+d'éléments de Z/27Z, avec le codage devenu habituel (espace=0,a=1...).
+Le chiffré correspond à la matrice `m^65537`. Son contenu se trouve dans
+le fichier `input.txt`.
+
 
 ## Format
 
